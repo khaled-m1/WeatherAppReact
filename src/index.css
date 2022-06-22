@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Tajawal&display=swap");
+body {
+  margin: 0;
+  font-family: "Tajawal", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #cae5ec;
+}
+
+code {
+  font-family: "Tajawal", sans-serif;
+}
+.container {
+  border: 1px solid lightgray;
+  border-radius: 20px;
+  height: 55vh;
+}
